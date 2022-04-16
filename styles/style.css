@@ -1,0 +1,16 @@
+html{
+    background-repeat: no-repeat;
+    background-image: url("../images/68185247 64X64.png");
+    background-color: white;
+}
+a:link {
+    color: #14d414;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+}
