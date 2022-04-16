@@ -1,16 +1,14 @@
-html{
-    background-repeat: no-repeat;
-    background-image: url("../images/68185247 64X64.png");
-    background-color: white;
+html {
+  background-repeat: no-repeat;
+  background-image: url("../images/68185247 64X64.png");
+  background-color: white;
 }
 a:link {
-    color: #14d414;
+  color: #14d414;
 }
-
 a:visited {
-    color: green;
+  color: green;
 }
-
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
