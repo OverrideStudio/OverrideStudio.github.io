@@ -1,8 +1,3 @@
-html {
-  background-repeat: repeat;
-  background-image: url("../images/68185247 inline 256x256.png");
-  background-color: white;
-}
 a:link {
   color: #14d414;
 }
@@ -11,4 +6,24 @@ a:visited {
 }
 a:hover {
   text-decoration: none;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+html {
+  background-repeat: repeat;
+  background-image: url("../images/60105247 inline 256x256.png");
+  background-color: white;
+}
+#StandardBLTBLTbody {
+  display: block;
+  margin: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
 }
